@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070630821086",
+    "firebase_url": "https://wellzandroid.firebaseio.com",
+    "project_id": "wellzandroid",
+    "storage_bucket": "wellzandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070630821086:android:202794fa7aa4b72162764f",
+        "android_client_info": {
+          "package_name": "CIMO.wellz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070630821086-e7g0jodp5h4jhvfm15p54e9hd6m9dnuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "CIMO.wellz",
+            "certificate_hash": "d4f062d273421097155874548ae1eafc4ee3b687"
+          }
+        },
+        {
+          "client_id": "1070630821086-6eci0ko6351a5vs3im0u2gd7p1a55qj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdW6f3hl-t763QzrQZkfRGZEolcRGpqaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070630821086-6eci0ko6351a5vs3im0u2gd7p1a55qj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
